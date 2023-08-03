@@ -1,1 +1,3 @@
 Created a file in Remote Repo (GitHub) as a text file. The name of the file is RemoteRepoChange.txt
+
+Added few more lines in GitHub to check pull cmd is working or not
